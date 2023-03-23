@@ -438,9 +438,6 @@ Check it out at [leomask.com](https://leomask.com)
 [MDIIO]: https://www.wearemdiio.com
 [LEMG]: https://lemgstudio.com
 
-https://promotionmusique.fr/
-
-
 ### Sound / Sample Providers
 
 - [PremiumBeat] - Curated, high-quality music and sound effects.
